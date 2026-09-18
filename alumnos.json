@@ -1,0 +1,123 @@
+{
+    "alumnos":[
+        {
+            "id": 1,
+            "nombre": "ALFONSO LEONARDO RODRIGUEZ RUIZ",
+            "matricula": "890",
+            "foto": "",
+            "activo": true
+        },
+        {
+            "id": 2,
+            "nombre": "WILLIAM RINCON PEREZ",
+            "matricula": "482",
+            "foto": "",
+            "activo": false
+        },
+        {
+            "id": 3,
+            "nombre": "NAHOMI SALAS NUNEZ",
+            "matricula": "234",
+            "foto": "",
+            "activo": false
+        },
+        {
+            "id": 4,
+            "nombre": "EMILIANO ESPINOZA LUJAN",
+            "matricula": "172",
+            "foto": "",
+            "activo": false
+        },
+        {
+            "id": 5,
+            "nombre": "ALDO GABRIEL GOMEZ CANIZALES",
+            "matricula": "392",
+            "foto": "",
+            "activo": false
+        },
+        {
+            "id": 6,
+            "nombre": "CARLOS ADRIAN BARRAGAN SORIANO",
+            "matricula": "127",
+            "foto": "",
+            "activo": false
+        },
+        {
+            "id": 7,
+            "nombre": "IVANNA RODRIGUEZ ROSALES",
+            "matricula": "302",
+            "foto": "",
+            "activo": true
+        },
+        {
+            "id": 8,
+            "nombre": "VICTOR MANUEL COLIN SANCHEZ",
+            "matricula": "106",
+            "foto": "",
+            "activo": true
+        },
+        {
+            "id": 9,
+            "nombre": "CARLOS HERNANDEZ GARZA",
+            "matricula": "212",
+            "foto": "",
+            "activo": true
+        },
+        {
+            "id": 10,
+            "nombre": "DANIEL ALEJANDRO BARBOSA RAMIREZ",
+            "matricula": "483",
+            "foto": "",
+            "activo": false
+        },
+        {
+            "id": 11,
+            "nombre": "LUIS ENRIQUE MATTA GONZALEZ",
+            "matricula": "351",
+            "foto": "",
+            "activo": false
+        },
+        {
+            "id": 12,
+            "nombre": "JUAN HUMBERTO RODRIGUEZ",
+            "matricula": "243",
+            "foto": "",
+            "activo": true
+        },
+        {
+            "id": 13,
+            "nombre": "MIGUEL ANGEL DE LEON GARCIA",
+            "matricula": "123",
+            "foto": "",
+            "activo": false
+        },
+        {
+            "id": 14,
+            "nombre": "JORGE JARED RAMIREZ GONZALEZ",
+            "matricula": "984",
+            "foto": "",
+            "activo": false
+        },
+        {
+            "id": 15,
+            "nombre": "CARLOS JOSUE SOSA LOPEZ",
+            "matricula": "536",
+            "foto": "",
+            "activo": false
+        },
+        {
+            "id": 16,
+            "nombre": "MAURICIO LOPEZ GARCIA",
+            "matricula": "521",
+            "foto": "",
+            "activo": false
+        },
+        {
+            "id": 17,
+            "nombre": "REBECA SANCHEZ RODRIGUEZ",
+            "matricula": "588",
+            "foto": "",
+            "activo": true
+        }
+    ]
+}
