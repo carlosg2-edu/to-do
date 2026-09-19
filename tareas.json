@@ -1,0 +1,83 @@
+{"tareas": [
+  {
+    "tarea": "Ensayo sobre el Renacimiento",
+    "materia": "Historia",
+    "descripcion": "Análisis de las obras de Leonardo da Vinci y Miguel Ángel.",
+    "fecha_limite": "2026-09-20",
+    "aceptado": true,
+    "vencida": false
+  },
+  {
+    "tarea": "Problemas de Derivadas",
+    "materia": "Matemáticas",
+    "descripcion": "Resolver los ejercicios de la página 45 del libro guía.",
+    "fecha_limite": "2026-09-15",
+    "aceptado": false,
+    "vencida": true
+  },
+  {
+    "tarea": "Laboratorio de Enlaces Químicos",
+    "materia": "Química",
+    "descripcion": "Redactar el reporte de la práctica realizada en el laboratorio.",
+    "fecha_limite": "2026-09-22",
+    "aceptado": true,
+    "vencida": false
+  },
+  {
+    "tarea": "Resumen de La Odisea",
+    "materia": "Literatura",
+    "descripcion": "Resumen detallado de los primeros diez cantos.",
+    "fecha_limite": "2026-09-18",
+    "aceptado": true,
+    "vencida": false
+  },
+  {
+    "tarea": "Mapa Conceptual de Células",
+    "materia": "Biología",
+    "descripcion": "Diferencias entre la célula procariota y la eucariota.",
+    "fecha_limite": "2026-09-10",
+    "aceptado": false,
+    "vencida": true
+  },
+  {
+    "tarea": "Presentación sobre Globalización",
+    "materia": "Geografía",
+    "descripcion": "Diapositivas sobre el impacto económico en América Latina.",
+    "fecha_limite": "2026-09-25",
+    "aceptado": false,
+    "vencida": false
+  },
+  {
+    "tarea": "Cuestionario de Física",
+    "materia": "Física",
+    "descripcion": "Responder las preguntas sobre las leyes de Newton.",
+    "fecha_limite": "2026-09-17",
+    "aceptado": true,
+    "vencida": false
+  },
+  {
+    "tarea": "Redacción en Inglés",
+    "materia": "Inglés",
+    "descripcion": "Escribir una carta formal solicitando empleo.",
+    "fecha_limite": "2026-09-21",
+    "aceptado": false,
+    "vencida": false
+  },
+  {
+    "tarea": "Análisis de Balance General",
+    "materia": "Contabilidad",
+    "descripcion": "Análisis financiero de la empresa modelo X.",
+    "fecha_limite": "2026-09-12",
+    "aceptado": true,
+    "vencida": true
+  },
+  {
+    "tarea": "Algoritmo de Búsqueda",
+    "materia": "Programación",
+    "descripcion": "Implementar un algoritmo de búsqueda binaria en Python.",
+    "fecha_limite": "2026-09-28",
+    "aceptado": false,
+    "vencida": false
+  }
+]
+}
